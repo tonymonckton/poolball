@@ -3,7 +3,7 @@
 iOS MetalKit demo.
 
   - Procedurally generated sphere
-  - UV, Normals and vertices generated
+  - UV, Normals and Vertices generated
   - Texture mapping, single texture for both hemispheres
 
 # Image
