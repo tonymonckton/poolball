@@ -8,7 +8,7 @@ iOS MetalKit demo.
 
 # Image
 
-![alt text](http://www.tonymonckton.co.uk/github/poolball.png)
+![alt text](poolball.png)
 
 # Images of sphere construction
 * top left: pole circle generated seperatly
@@ -16,7 +16,7 @@ iOS MetalKit demo.
 * bottom left: vertices generated for pole
 * Bottom right: front hemisphere
 
-![alt text](http://www.tonymonckton.co.uk/github/poolball2.png)
+![alt text](poolball2.png)
 
 
 ### Gestures
